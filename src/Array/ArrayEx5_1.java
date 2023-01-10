@@ -1,6 +1,7 @@
+package Array;// 배열의 출력 예제
 import java.util.Arrays;
 
-public class Array {
+public class ArrayEx5_1 {
     public static void main(String[] args) {
         int[] iArr1 = new int[10];
         int[] iArr2 = new int[10];
